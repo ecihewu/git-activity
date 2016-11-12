@@ -12,6 +12,12 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* IRC: gt3267
 	* GitHub: gt3267
 	
+* Wu He, Old Dominion University
+
+	*GITHuB:ecihewu
+	
+	*Email:whe@odu.edu
+	
 * Janet Davis, Whitman College
 	* Email: davisj@whitman.edu
 	* IRC: janet_
