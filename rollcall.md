@@ -201,6 +201,8 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: jwelch@hartnell.edu
 	* IRC: wjwelch
 	
+	
+	
 * Jean French, Coastal Carolina University
 	* GitHub: DrFrench
 	* Email: jennis@coastal.edu
